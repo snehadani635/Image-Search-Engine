@@ -68,3 +68,22 @@ cd image-search-engine
 ```
 
 3. Open `index.html` in your browser.
+
+## 🎯 Future Improvements
+
+- Image download option
+- Dark mode support
+- Search history
+- Infinite scrolling
+- Loading animation
+
+## 👩‍💻 Author
+
+**Sneha Dani**
+
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
