@@ -17,3 +17,10 @@ A simple and responsive Image Search Engine built using **HTML, CSS, and JavaScr
 - CSS3
 - JavaScript (ES6)
 - Unsplash API
+
+## ⚙️ How It Works
+
+1. User enters a search term.
+2. The application sends a request to the Unsplash API.
+3. Relevant images are fetched and displayed.
+4. Clicking the **Show More** button loads additional images.
