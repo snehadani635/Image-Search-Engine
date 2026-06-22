@@ -48,3 +48,23 @@ This project uses the Unsplash API.
 3. Generate an Access Key.
 
 4. Replace the Access Key in `script.js`:
+
+```javascript
+const accessKey = "YOUR_UNSPLASH_ACCESS_KEY";
+```
+
+## ▶️ Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/image-search-engine.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd image-search-engine
+```
+
+3. Open `index.html` in your browser.
