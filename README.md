@@ -9,3 +9,11 @@ A simple and responsive Image Search Engine built using **HTML, CSS, and JavaScr
 - Responsive user interface
 - Show More functionality for additional results
 - Clean and modern design
+
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Unsplash API
